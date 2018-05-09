@@ -1,0 +1,11 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/omnisone/tracker.git",
+  "author": "Vishnu Vijayan <vvijayan@purdue.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "bittorrent-tracker": "^9.9.1"
+  }
+}
